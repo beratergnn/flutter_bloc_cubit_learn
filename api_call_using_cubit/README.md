@@ -1,6 +1,9 @@
 # api_call_using_cubit
 
-A new Flutter project.
+I learned how to create an api request by dynamically applying cubit to the project.
+
+## SS
+![Screenshot_1692960982](https://github.com/beratergnn/flutter_bloc_cubit_learn/assets/58957696/ceefb228-ab1a-4bf8-b577-84b82102c13e)
 
 ## Getting Started
 
@@ -14,3 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
