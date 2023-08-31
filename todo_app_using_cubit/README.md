@@ -1,5 +1,5 @@
 # Explanation
-To better understand Cubit state management, I tried to use it in a todo application.
+To better understand Cubit state management, I tried to use it in a todo application. You can view the existing tasks, add a new task, complete it and delete the tasks you have added, all under control with cubit.
 
 ## ScreenShots
 ![Screenshot_1693490760](https://github.com/beratergnn/flutter_bloc_cubit_learn/assets/58957696/51c4c4aa-95db-4153-93fa-4f76dab29b71)
